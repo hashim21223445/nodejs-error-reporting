@@ -19,11 +19,11 @@
   },
   "dependencies": {
     "@google-cloud/error-reporting": "0.2.1",
-    "express": "4.19.2",
+    "express": "4.15.4",
     "yargs": "8.0.2"
   },
   "devDependencies": {
-    "@google-cloud/nodejs-repo-tools": "2.3.6",
+    "@google-cloud/nodejs-repo-tools": "3.3.0",
     "ava": "0.23.0",
     "nyc": "11.2.1",
     "proxyquire": "1.8.0",
