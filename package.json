@@ -60,7 +60,7 @@
     "@google-cloud/nodejs-repo-tools": "^2.0.11",
     "@types/express": "^4.11.0",
     "@types/hapi": "^16.1.11",
-    "@types/is": "0.0.18",
+    "@types/is": "0.0.25",
     "@types/koa": "^2.0.43",
     "@types/lodash.has": "^4.5.3",
     "@types/mocha": "^2.2.45",
