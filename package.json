@@ -57,7 +57,7 @@
     "lodash.has": "^4.5.2"
   },
   "devDependencies": {
-    "@google-cloud/nodejs-repo-tools": "^2.0.11",
+    "@google-cloud/nodejs-repo-tools": "^3.0.0",
     "@types/express": "^4.11.0",
     "@types/hapi": "^16.1.11",
     "@types/is": "0.0.18",
@@ -70,7 +70,7 @@
     "async": "^2.6.0",
     "body-parser": "^1.15.1",
     "codecov": "^3.0.0",
-    "eslint": "^4.9.0",
+    "eslint": "^9.0.0",
     "eslint-config-prettier": "^2.6.0",
     "eslint-plugin-node": "^5.2.1",
     "eslint-plugin-prettier": "^2.3.1",
